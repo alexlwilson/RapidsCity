@@ -1,0 +1,7 @@
+nav, footer, img, .mainfoot, .subfoot, .hero {
+	display: none;
+}
+/*
+a[href]:after {
+	content: " (" attr(href) ") ";
+}*/
